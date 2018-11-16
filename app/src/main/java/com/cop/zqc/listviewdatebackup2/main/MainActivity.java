@@ -11,6 +11,7 @@ import android.widget.ListView;
 import com.cop.zqc.listviewdatebackup2.R;
 import com.cop.zqc.listviewdatebackup2.activity.AutoCompleteTextactivity;
 import com.cop.zqc.listviewdatebackup2.activity.Progressbar_indeternimate_atv;
+import com.cop.zqc.listviewdatebackup2.activity.ScrollViewActivtiy;
 import com.cop.zqc.listviewdatebackup2.activity.Spinneractivity;
 import com.cop.zqc.listviewdatebackup2.activity.radio1activity;
 import com.cop.zqc.listviewdatebackup2.activity.radio2activity;
@@ -41,7 +42,8 @@ public class MainActivity extends AppCompatActivity {
                 new ListDataGroup("王五","1997","click3",03,this,new Intent(this,Progressbar_indeternimate_atv.class)),
                 new ListDataGroup("王1","1997","click4",04,this,new Intent(this,Spinneractivity.class)),
                 new ListDataGroup("王100","1997","click4",05,this,new Intent(this,AutoCompleteTextactivity.class)),
-                new ListDataGroup("狗100","1997","click5",06,this,new Intent(this,seekbaractivity.class))
+                new ListDataGroup("狗100","1997","click5",06,this,new Intent(this,seekbaractivity.class)),
+                new ListDataGroup("狗102","1999","click6",07,this,new Intent(this,ScrollViewActivtiy.class))
 
         };
 

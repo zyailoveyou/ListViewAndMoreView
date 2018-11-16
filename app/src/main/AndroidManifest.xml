@@ -22,8 +22,8 @@
         <activity android:name=".activity.Spinneractivity"></activity>
         <activity android:name=".activity.AutoCompleteTextactivity"></activity>
         <activity android:name=".activity.seekbaractivity"></activity>
-
         <activity android:name=".activity.githubtestactivtiy"></activity>
+        <activity android:name=".activity.UsingNotificationActivitya"></activity>
     </application>
 
 </manifest>
