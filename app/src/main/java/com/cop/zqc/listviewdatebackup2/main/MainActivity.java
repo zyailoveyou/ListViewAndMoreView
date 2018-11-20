@@ -55,8 +55,6 @@ public class MainActivity extends AppCompatActivity {
 
         mListView_dynamic.setOnItemClickListener(mMyAdapter);
 
-        System.out.println("zhixingle");
-
     }
 
 
