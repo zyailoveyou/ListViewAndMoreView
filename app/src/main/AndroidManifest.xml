@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        
         <activity android:name=".activity.Progressbar_indeternimate_atv"></activity>
         <activity android:name=".activity.radio1activity"></activity>
         <activity android:name=".activity.radio2activity"></activity>
